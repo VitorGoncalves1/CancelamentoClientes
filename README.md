@@ -9,5 +9,9 @@ Precisando melhorar seus resultados ela quer conseguir entender os principais mo
 * Utilizado o pandas
 * Utilizado o plotly.express
 
+## Observações Gerais
 
+Foi percebido que para abaixar o número de cancelamentos (inicialmente com aproximadamente 56%) teve que verificar os seguintes tópicos:
+* Utilizado o pandas
+* Utilizado o plotly.express
 
