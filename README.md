@@ -18,3 +18,5 @@ Foi percebido que para abaixar o número de cancelamentos (inicialmente com apro
 * Duração Contrato
 * Total Gasto 
 
+Concluindo com o cancelamento em aproximadamente 15%
+
